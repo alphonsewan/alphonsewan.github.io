@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+h1 {
+  text-align: center;
+  font-family: helvetica, sans-serif;
+  color: white;
+}
+
+h2 {
+  text-align: center;
+  font-family: Impact, helvetica, sans-serif;
+  color: white;
+}
+
+p {
+  margin-left: 85px;
+  margin-right: 60px;
+  font-family: helvetica, sans-serif;
+  color: white;
+  font-size: 17px;
+  text-align: left;
+}
