@@ -44,7 +44,7 @@ li a:visited {
   color: lightgoldenrodyellow;
 }
 
-ul {
+.ulnb {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -74,4 +74,10 @@ li a:hover {
 
 li a:active {
   color: pink;
+}
+
+.ulstyle {
+  margin-left: -2px;
+  margin-top: 100px;
+  color: #ffff;
 }
