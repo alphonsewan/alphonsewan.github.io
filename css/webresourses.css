@@ -1,6 +1,8 @@
 @charset "UTF-8";
 
 p {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #ffff;
   line-height: 20px;
   font-size: 17px;
 }
@@ -17,11 +19,6 @@ h2 {
   color: #ffff;
   font-size: 200%;
   margin-top: -2%;
-}
-
-p {
-  font-family: Arial, Helvetica, sans-serif;
-  color: #ffff;
 }
 
 a {
@@ -55,11 +52,11 @@ li a:visited {
   width: 99%;
 }
 
-li {
+li a {
   float: left;
 }
 
-li a {
+#nav1 li a {
   display: block;
   color: white;
   text-align: center;
@@ -78,6 +75,11 @@ li a:active {
 
 .ulstyle {
   margin-left: -2px;
-  margin-top: 100px;
+  margin-top: 50px;
   color: #ffff;
+  clear: left;
+}
+
+.pnb {
+  margin-top: 100px;
 }
